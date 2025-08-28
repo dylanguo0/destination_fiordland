@@ -20,3 +20,21 @@ h1 {
     top: 14px;
     left: 14px;
 }
+
+nav {
+    text-align: center;
+    background-color: #494430;
+    line-height: 40px;
+    width: 600px;
+    margin: auto;
+    border-radius: 25px;
+    margin-top: -20px;
+}
+
+a {
+    color: #EBEDF9;
+    text-decoration: none;
+    margin-left: 25px;
+    margin-right: 25px;
+    font-size: 25px;
+}
