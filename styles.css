@@ -59,3 +59,15 @@ aside {
     text-align: center;
     margin-top: 30px;
 }
+
+footer {
+    width: 100%;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'IBM Plex Serif';
+    line-height: 35px;
+    color: #EBEDF9;
+    background-color: #494430;
+    position: fixed;
+    bottom: 0;
+  }
