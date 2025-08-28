@@ -1,0 +1,22 @@
+@import url(https://fonts.googleapis.com/css?family=Merienda+One);
+@import url(https://fonts.googleapis.com/css?family=IBM+Plex+Serif);
+
+body {
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Merienda One';
+    font-size: 80px;
+    line-height: 150px;
+    margin: 0;
+    background-color: #80802A;
+}
+
+.logo {
+    float: left;
+    position: absolute;
+    top: 14px;
+    left: 14px;
+}
