@@ -52,4 +52,10 @@ p {
     font-size: 25px;
     margin-left: 50px;
     margin-right: 50px;
+    color: #EBEDF9;
+}
+
+aside {
+    text-align: center;
+    margin-top: 30px;
 }
