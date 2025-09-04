@@ -47,10 +47,15 @@ h2 {
     color: #EBEDF9;
 }
 
+.activities h2 {
+    font-size: 40px;
+}
+
 h3 {
     font-family: 'Merienda One';
-    font-size: 25px;
+    font-size: 20px;
     margin-left: 25px;
+    margin-bottom: 0;
     color: #EBEDF9;
 }
 
@@ -63,11 +68,7 @@ p {
 }
 
 .activities p {
-    font-family: 'IBM Plex Serif';
-    font-size: 16px;
-    margin-left: 50px;
-    margin-right: 50px;
-    color: #EBEDF9;
+    font-size: 14px;
 }
 
 b {
